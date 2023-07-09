@@ -75,6 +75,7 @@
       3. 然后再生成数据
 
       <video id="video" controls="" src="transformer_a_first_example.assets/2023-06-29 16-27-30.mp4" preload="none">
+      [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1688872850/video_to_markdown/images/youtube--l8Myt8XJ-YY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=l8Myt8XJ-YY "")
 
 ### 2.3.1建立`SimpleLossCompute`对象
 
